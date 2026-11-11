@@ -1,0 +1,1490 @@
+[
+  {
+    "id": 1,
+    "title": "Analysing flows on the Sun’s surface to untangle the problem of coronal heating",
+    "description": "Observations of the Sun reveal that its outer atmosphere (“corona”) is around 1000 times hotter than its surface, a fact that has defied explanation since it was first realised nearly 80 years ago. Recent promising results suggest a resolution to this problem, involving tangling/braiding of the magnetic field lines in the corona by plasma flows on the surface. However, current methods for extracting these flows from observational data have severe shortcomings. In this project the aim is to use data from the latest NASA missions to better measure the surface flows and the vector components of the surface magnetic field during the braiding of coronal field lines to better constrain this proposed mechanism for atmospheric heating. This project could focus either on data analysis and processing, or on mathematical models and measures of complexity, depending on the student's interest. It is suitable for students with interests in Physics or Mathematics.",
+    "supervisor": "David Pontin",
+    "email": "david.pontin@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/david-pontin",
+    "page": 3,
+    "tags": [
+      "Solar physics & space weather",
+      "Plasma physics & fusion",
+      "Programming & computational modelling",
+      "Mathematics & theoretical physics"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "coronal",
+      "plasma",
+      "data analysis"
+    ],
+    "software": []
+  },
+  {
+    "id": 2,
+    "title": "Understanding energy conversion in turbulent, magnetised plasmas",
+    "description": "Magnetic and velocity fields in plasmas exhibit a turbulent behaviour on a wide range of scales, from galaxies to the Sun to laboratory plasmas on Earth. Turbulence appears inherently messy/chaotic, but one path to understanding the energy conversion in such plasmas is to study the spatial distribution of different magnetic field structures. The aim of this project is to develop algorithms that compare the correlations between structures present in the magnetic field and measures of energy conversion. This will provide insight into the fundamental phenomenon of plasma turbulence – relevant for understand plasmas in space, the Earth’s atmosphere, and lab fusion devices. This project could focus either on data analysis and processing, or on mathematical/statistical analysis, depending on the student's interest. It is suitable for students with interests in Physics or Mathematics.",
+    "supervisor": "David Pontin",
+    "email": "david.pontin@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/david-pontin",
+    "page": 3,
+    "tags": [
+      "Astronomy & exoplanets",
+      "Solar physics & space weather",
+      "Plasma physics & fusion",
+      "Programming & computational modelling",
+      "Electronics & sensors",
+      "Mathematics & theoretical physics"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "plasma",
+      "statistical analysis",
+      "data analysis"
+    ],
+    "software": []
+  },
+  {
+    "id": 3,
+    "title": "Properties of elementary heating events in solar coronal loops",
+    "description": "One of the leading theories for how the plasma in “coronal loops” reaches such high temperatures is by a so-called “braiding” process where the surface motions cause a tangling of the magnetic field lines in the loops. This in turn leads to the formation of intense electric currents, which are required to convert stored magnetic energy to heat. The idea of this project is to explore how these elementary heating events work in new, high-resolution simulations. This will involve developing algorithms to quantify the properties of the electric current “sheets” in the simulation data, and then looking at what the signatures of these processes would be in solar observations. This project is suitable for students with interests in Physics or Mathematics.",
+    "supervisor": "David Pontin",
+    "email": "david.pontin@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/david-pontin",
+    "page": 3,
+    "tags": [
+      "Solar physics & space weather",
+      "Plasma physics & fusion",
+      "Programming & computational modelling",
+      "Mathematics & theoretical physics"
+    ],
+    "methods": [
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "coronal",
+      "plasma",
+      "simulation"
+    ],
+    "software": []
+  },
+  {
+    "id": 4,
+    "title": "Exploring the complexity of stellar magnetic fields",
+    "description": "In recent years techniques have been developed to measure the magnetic field on the surfaces of stars. These magnetic fields are crucial for driving a range of phenomena like winds and flares that can affect the habitability of orbiting planets. The goal of this project is to take the computational tools that we use for analysing the complexity of the Sun’s magnetic field, and apply them to these stellar magnetic field data. This project is suitable for students with interests in Physics or Mathematics.",
+    "supervisor": "David Pontin",
+    "email": "david.pontin@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/david-pontin",
+    "page": 3,
+    "tags": [
+      "Astronomy & exoplanets",
+      "Solar physics & space weather",
+      "Programming & computational modelling",
+      "Mathematics & theoretical physics"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "stellar magnetic field"
+    ],
+    "software": []
+  },
+  {
+    "id": 5,
+    "title": "The structure of the Sun’s magnetic field and implications for understanding the solar wind",
+    "description": "The solar wind is a stream of plasma coming from the Sun in which the Earth is embedded. Its conditions around the Earth are called “space weather”, and understanding/predicting this space weather is economically important due to its ability to disrupt communications, endanger astronauts, and damage power systems and satellites. The goal of this project is to analyse magnetic field structures in the Sun’s atmosphere that are thought to be source regions for the slow, unsteady component of the solar wind that is poorly understood. This will involve working with new, high-resolution observations of the Sun's surface magnetic field from the latest NASA space missions. Using this data, the goal is to extrapolate to find the magnetic field in the Sun's atmosphere (which can't be measured directly), and then to analyse the structures present in this magnetic field. This will be a computational project that will involve writing codes/modifying existing codes to analyse and visualise these structures using, e.g., python.",
+    "supervisor": "David Pontin",
+    "email": "david.pontin@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/david-pontin",
+    "page": 3,
+    "tags": [
+      "Solar physics & space weather",
+      "Plasma physics & fusion",
+      "Programming & computational modelling"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "solar wind",
+      "plasma",
+      "Python"
+    ],
+    "software": [
+      "Python"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "The average three-dimensional supergranule in numerical simulations",
+    "description": "Supergranulation is one of the Sun’s dominant convective patterns, but its subsurface extent remains unknown. In this project, you will analyse pre-computed 3D hydrodynamic simulations of near-surface solar convection to reconstruct an average supergranule and track its evolution with depth. By identifying, aligning, and averaging a number of simulated cells, you will uncover the hidden subsurface structure of supergranulation: how its characteristic outflows change with depth. You will work with large simulation datasets, develop statistical and visualisation techniques, and compare your results with helioseismic observations of the Sun. This project offers a chance to investigate a fundamental open question in solar physics using modern computational tools, and would suit a physics, maths or engineering student.",
+    "supervisor": "Hannah Schunker",
+    "email": "hannah.schunker@newcastle.edu.au",
+    "profile": "https://profiles.newcastle.edu.au/Hannah-Schunker",
+    "page": 5,
+    "tags": [
+      "Solar physics & space weather",
+      "Materials science & surface imaging",
+      "Biophysics & molecular biology",
+      "Programming & computational modelling",
+      "Mathematics & theoretical physics"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "simulation"
+    ],
+    "software": []
+  },
+  {
+    "id": 7,
+    "title": "Modelling stellar light curves: how well can we measure a star's rotation?",
+    "description": "The European Space Agency's PLATO mission will measure the rotation of thousands of Sun-like stars from the periodic dimming caused by starspots. But a light curve does not reveal a starspot’s latitude or the star’s inclination, creating an ambiguity in the inferred rotation rate. In this project, you will generate synthetic stellar light curves while varying starspot latitude, size, and lifetime, along with stellar inclination and limb darkening. By recovering the rotation period and comparing it with the known input, you will determine the bias and uncertainty in surface-rotation measurements — and assess how reliably PLATO can constrain the rotation of Sun-like stars. You will also visualise the rotating stellar surface alongside its light curve, making the source of the ambiguity clear. The project provides hands-on experience in Python, forward modelling, parameter recovery, and stellar-rotation physics, with direct relevance to the interpretation of PLATO observations and the internal rotation of Sun-like stars, and would suit a physics, maths or engineering student.",
+    "supervisor": "Hannah Schunker",
+    "email": "hannah.schunker@newcastle.edu.au",
+    "profile": "https://profiles.newcastle.edu.au/Hannah-Schunker",
+    "page": 5,
+    "tags": [
+      "Astronomy & exoplanets",
+      "Solar physics & space weather",
+      "Programming & computational modelling"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "Python"
+    ],
+    "software": [
+      "Python"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Space weather forecasting: modelling an ensemble of active region evolution",
+    "description": "Solar active regions power space weather, but their evolution—and the flares and eruptions they produce—remains difficult to predict. Surface convection continually reshapes themagnetic fields, with different flow patterns producing different outcomes even from the same initial state. In this project, you will writeyour own numerical code to advect magnetic fields through prescribed surface flows. By running ensembles of advection for different flow maps, you will quantify how uncertainty in the flows affects the evolution of polarity separation, tilt angle, and flux cancellation—and identify the fundamental limits of active-region forecasting. You will gain hands-on experience in numerical modelling, scientific programming, ensemble methods, and uncertainty quantification, with the opportunity to compare your results with observations of real solar active regions, and would suit a physics, maths or engineering student.",
+    "supervisor": "Hannah Schunker",
+    "email": "hannah.schunker@newcastle.edu.au",
+    "profile": "https://profiles.newcastle.edu.au/Hannah-Schunker",
+    "page": 5,
+    "tags": [
+      "Solar physics & space weather",
+      "Materials science & surface imaging",
+      "Biophysics & molecular biology",
+      "Programming & computational modelling"
+    ],
+    "methods": [
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "numerical modelling"
+    ],
+    "software": []
+  },
+  {
+    "id": 9,
+    "title": "Measuring the rotation of Sun-like stars",
+    "description": "Stellar rotation provides a window into magnetic activity, stellar age, and the transport of angular momentum inside stars. ESA’s PLATO mission will observe thousands of stars, creating an unprecedented opportunity to measure how rotation varies across Sun-like stars. In this project, you will obtain PLATO light curves for FGK-type stars and develop a Python pipeline to measure their rotation periods using the Lomb–Scargle periodogram. You will identify significant periodic signals, assess their reliability, and investigate how the measured rotation periods depend on stellar type, activity, and data quality. Where possible, you will compare the results with independent rotation measurements and examine the distribution of rotation rates across the sample. The project will provide hands-on experience with astronomical time-series data, Fourier and Lomb–Scargle methods, statistical significance testing, and scientific programming. The resulting rotation catalogue will help characterise the magnetic and rotational evolution of Sun-like stars.",
+    "supervisor": "Hannah Schunker",
+    "email": "hannah.schunker@newcastle.edu.au",
+    "profile": "https://profiles.newcastle.edu.au/Hannah-Schunker",
+    "page": 5,
+    "tags": [
+      "Astronomy & exoplanets",
+      "Solar physics & space weather",
+      "Programming & computational modelling",
+      "Mathematics & theoretical physics"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "Python"
+    ],
+    "software": [
+      "Python"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Stretching quantum interactions in diamond to the limit",
+    "description": "Tiny glowing artificial atoms in diamond, called colour centres, can be used to store and process quantum information through the manipulation with laser light and microwaves. Important aspects of these physical interactions are dictated by the exact colour centre shape which in turn is strongly influenced by the surrounding diamond crystal. This project aims to explore the changes in colour centre properties that arise from mechanical deformation of the crystal. The results will fit into the development of strain-engineering as a novel approach to improve quantum memories in diamond. This experimental project will involve measuring glowing diamonds in a fluorescence microscope, optical spectroscopy, and data analysis in python.",
+    "supervisor": "Lachlan Rogers",
+    "email": "lachlan.rogers@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/lachlan-rogers",
+    "page": 7,
+    "tags": [
+      "Quantum physics & quantum technologies",
+      "Lasers & optical spectroscopy",
+      "Materials science & surface imaging",
+      "Programming & computational modelling"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "spectroscopy",
+      "laser",
+      "optical",
+      "data analysis",
+      "Python"
+    ],
+    "software": [
+      "Python"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Qantum “optics” of heat in diamond",
+    "description": "Photons “bunch”, or arrive simultaneously in groups, for thermal light, but they do the opposite (“antibunch”) when emitted by a single-photon emitter. Atomic impurities in diamond, called colour centres, are excellent single-photon sources. Diamond is also a solid-state crystal and so hosts quantum vibrations called phonons, which are essentially heat energy. This project will use various laser wavelengths to excite colour centres so that information about the phonons can be obtained by optical measurements of photons from the glowing diamonds.",
+    "supervisor": "Lachlan Rogers",
+    "email": "lachlan.rogers@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/lachlan-rogers",
+    "page": 7,
+    "tags": [
+      "Quantum physics & quantum technologies",
+      "Lasers & optical spectroscopy",
+      "Materials science & surface imaging",
+      "Biophysics & molecular biology"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "laser",
+      "optical"
+    ],
+    "software": []
+  },
+  {
+    "id": 12,
+    "title": "Counting quantum emitters",
+    "description": "Single quantum emitters are important building blocks for quantum computing, quantum communication, and quantum information technologies. Most such emitters are much smaller than can be resolved in a microscope, and so it is important to have techniques that can reliably identify when one is isolated on its own. Photon timing gives the clue, because a single emitter cannot emit two photons exactly simultaneously! This project will use Bayesian probability theory to develop new analysis techniques for the photon statistics to enable more reliable identification of the number of emitters. It will involve simulations and inference development in Python.",
+    "supervisor": "Lachlan Rogers",
+    "email": "lachlan.rogers@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/lachlan-rogers",
+    "page": 7,
+    "tags": [
+      "Quantum physics & quantum technologies",
+      "Lasers & optical spectroscopy",
+      "Materials science & surface imaging",
+      "Artificial intelligence & machine learning",
+      "Programming & computational modelling",
+      "Mathematics & theoretical physics"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "Python"
+    ],
+    "software": [
+      "Python"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Looking for quantum emitters in 2-D diamond",
+    "description": "Graphene is well-known as a 2-D carbon material, and it has different chemical bonds to those in diamond. Joining two layers together with diamond carbon bonds creates \"diamene\" - a kind of 2-D material that looks like graphene but acts like diamond! This project aims to do spectroscopy on diamene samples to search for colour centres analogous to those studied in diamond. It will involve laser spectroscopy, confocal fluorescence microscopy, and can also involve sample growth and preparation.",
+    "supervisor": "Lachlan Rogers",
+    "email": "lachlan.rogers@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/lachlan-rogers",
+    "page": 7,
+    "tags": [
+      "Quantum physics & quantum technologies",
+      "Lasers & optical spectroscopy",
+      "Materials science & surface imaging"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "spectroscopy",
+      "laser"
+    ],
+    "software": []
+  },
+  {
+    "id": 14,
+    "title": "Biosensors from Plastic Electronics",
+    "description": "Diabetes currently affects over 300 million people worldwide, a number that is predicted to rise to over 500 million by 2020. Diabetes sufferers are condemned to a lifetime of painful, invasive blood testing many times a day. Research in the Centre for Organic Electronics (COE) has already demonstrated that low cost glucose biosensors can be fabricated by simply incorporating bioactive materials (such as enzymes) into organic thin film transistors (OTFTs). Using soft electronic polymers as the matrix for the bioactive material eliminates the need for complex molecular surface assembly. This project will involve designing, building and characterising OTFT biosensors for diabetes management. The goal of this project is the development of a flexible and inexpensive printable biosensor. This project is suitable for students with backgrounds in Physics, Chemistry and Engineering.",
+    "supervisor": "Paul Dastoor",
+    "email": "paul.dastoor@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/paul-dastoor",
+    "page": 8,
+    "tags": [
+      "Cancer research & disease diagnostics",
+      "Materials science & surface imaging",
+      "Biophysics & molecular biology",
+      "Electronics & sensors"
+    ],
+    "methods": [
+      "Laboratory experiments"
+    ],
+    "keywords": [
+      "biosensor"
+    ],
+    "software": []
+  },
+  {
+    "id": 15,
+    "title": "Helium Atom Beam Microscopy: Using Quantum Mechanics to Image Delicate Surfaces",
+    "description": "Scanning helium atom microscopy offers the tantalizing possibility of using the wave-particle nature of helium atoms to image the structure of delicate surfaces with unprecedented resolution. This project will involve developing the new ARC-funded helium beam microscope at Newcastle and producing preliminary images. This project will involve collaboration with the Cavendish Laboratory at the University of Cambridge. This project is suitable for students with backgrounds in Physics, Chemistry and Engineering",
+    "supervisor": "Paul Dastoor",
+    "email": "paul.dastoor@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/paul-dastoor",
+    "page": 8,
+    "tags": [
+      "Quantum physics & quantum technologies",
+      "Materials science & surface imaging"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Data analysis & imaging"
+    ],
+    "keywords": [],
+    "software": []
+  },
+  {
+    "id": 16,
+    "title": "Extending the Spectral Response of Organic Solar Cells",
+    "description": "State-of-the-art organic solar cells are limited by the wavelength response of the active semi-conducting polymer layer since these materials typically only photogenerate charges below 500 – 550 nm. In the natural world, plants use a range of porphyrin-based molecules (such as chlorophyll) to allow photosynthesis to occur across the solar spectrum. This project aims to develop photovoltaic devices containing novel light harvesting molecules. The goal of this project is to develop printed solar cells that generate electricity from the entire solar spectrum. This project is suitable for students with backgrounds in Physics, Chemistry and Engineering",
+    "supervisor": "Paul Dastoor",
+    "email": "paul.dastoor@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/paul-dastoor",
+    "page": 8,
+    "tags": [
+      "Solar physics & space weather",
+      "Biophysics & molecular biology",
+      "Renewable energy & solar cells",
+      "Electronics & sensors"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "photovoltaic"
+    ],
+    "software": []
+  },
+  {
+    "id": 17,
+    "title": "Extending the Lifetime of Organic Solar Cells",
+    "description": "One of the current challenges limiting the rapid uptake of organic solar cells is the limited lifetime of these devices. This project will study novel device architectures with the goal of developing extended lifetime solar cells devices. This project is suitable for students with backgrounds in Physics, Chemistry and Engineering",
+    "supervisor": "Paul Dastoor",
+    "email": "paul.dastoor@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/paul-dastoor",
+    "page": 8,
+    "tags": [
+      "Solar physics & space weather",
+      "Biophysics & molecular biology",
+      "Renewable energy & solar cells",
+      "Electronics & sensors"
+    ],
+    "methods": [
+      "Laboratory experiments"
+    ],
+    "keywords": [],
+    "software": []
+  },
+  {
+    "id": 18,
+    "title": "Field Ionisation Helium Detection using Carbon Nanotubes",
+    "description": "Scanning helium microscopy is an emerging imaging technology that uses low energy (<50 meV) helium atom beams as a completely non-perturbing probe of nanoscale structure. However, this exciting new technology is currently limited by the lack of an effective 2D imaging system for neutral He atoms. Carbon nanotubes (CNTs) offer the possibility of acting as effective field ionisation tips for He atoms thus allowing them to be detected. This project will aim to grow CNT arrays using the chemical vapour deposition (CVD) system in the Centre for Organic Electronics. This project is suitable for students with backgrounds in Physics, Chemistry and Engineering",
+    "supervisor": "Paul Dastoor",
+    "email": "paul.dastoor@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/paul-dastoor",
+    "page": 8,
+    "tags": [
+      "Quantum physics & quantum technologies",
+      "Nanotechnology & nanoparticles",
+      "Materials science & surface imaging",
+      "Electronics & sensors"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Data analysis & imaging"
+    ],
+    "keywords": [],
+    "software": []
+  },
+  {
+    "id": 19,
+    "title": "Large Area Printing of Organic Solar Cells",
+    "description": "The development of new sources of renewable energy is urgently required if the worst effects of man-made climate change are to be avoided. This project will build on the recent exciting advances made by the Centre for Organic Electronics (COE) in device fabrication to develop new methods for printing large photovoltaic arrays based on semi-conducting polymers. This project will make use of the new state-of-the-art printing system that has been recently purchased by the COE for developing organic electronic circuits. This project is suitable for students with backgrounds in Physics, Chemistry and Engineering.",
+    "supervisor": "Paul Dastoor",
+    "email": "paul.dastoor@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/paul-dastoor",
+    "page": 8,
+    "tags": [
+      "Solar physics & space weather",
+      "Biophysics & molecular biology",
+      "Renewable energy & solar cells",
+      "Electronics & sensors"
+    ],
+    "methods": [
+      "Laboratory experiments"
+    ],
+    "keywords": [
+      "photovoltaic"
+    ],
+    "software": []
+  },
+  {
+    "id": 20,
+    "title": "Novel Electrodes for Organic Solar Cells",
+    "description": "The capability of organic solar cells to provide large scale global sustainable energy solutions will be limited by the current high costs and supply issues associated with the current electrode materials. This project will explore novel transparent conducting materials to address the issue of developing low cost electrode structures for these exciting new devices. This project is suitable for students with backgrounds in Physics, Chemistry and Engineering.",
+    "supervisor": "Paul Dastoor",
+    "email": "paul.dastoor@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/paul-dastoor",
+    "page": 8,
+    "tags": [
+      "Solar physics & space weather",
+      "Biophysics & molecular biology",
+      "Renewable energy & solar cells",
+      "Electronics & sensors"
+    ],
+    "methods": [
+      "Laboratory experiments"
+    ],
+    "keywords": [],
+    "software": []
+  },
+  {
+    "id": 21,
+    "title": "Novel Encapsulants for Organic Solar Cells",
+    "description": "State-of-the-art organic solar cells are limited by the durability and lifetime of the active layer materials in these blended devices. This project will study the role of new encapsulant materials and structures to extend the lifetime of these devices. This project is suitable for students with backgrounds in Physics, Chemistry and Engineering.",
+    "supervisor": "Paul Dastoor",
+    "email": "paul.dastoor@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/paul-dastoor",
+    "page": 8,
+    "tags": [
+      "Solar physics & space weather",
+      "Biophysics & molecular biology",
+      "Renewable energy & solar cells",
+      "Electronics & sensors"
+    ],
+    "methods": [
+      "Laboratory experiments"
+    ],
+    "keywords": [],
+    "software": []
+  },
+  {
+    "id": 22,
+    "title": "Phase Contrast Mechanisms in Scanning Helium Microscopy",
+    "description": "The aim of this multinational collaborative research project is to develop the world’s first imaging detector for neutral helium atoms for use in a new surface-imaging instrument – the scanning helium microscope. Scanning helium microscopy is an emerging imaging technology that uses low energy (<50 meV) helium atom beams as a completely non-perturbing probe of nanoscale structure. Currently, there is little understanding of the mechanisms that would provide contrast in this microscopy. The ultimate goal of this project is to understand the phase contrast mechanisms that would operate in scanning helium microscopy and is motivated by recent research by Prof Dastoor and colleagues at the University of Cambridge. This project will involve modelling work with the goal of understanding the phase contrast processes. This project is suitable for students with backgrounds in Physics, Chemistry and Engineering",
+    "supervisor": "Paul Dastoor",
+    "email": "paul.dastoor@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/paul-dastoor",
+    "page": 8,
+    "tags": [
+      "Quantum physics & quantum technologies",
+      "Nanotechnology & nanoparticles",
+      "Materials science & surface imaging",
+      "Programming & computational modelling",
+      "Electronics & sensors"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [],
+    "software": []
+  },
+  {
+    "id": 23,
+    "title": "Structure and Morphology of Conducting Polymer Blends",
+    "description": "Conducting polymer blends underpin all of the activities of the Centre for Organic Electronics, especially in the areas of organic solar cells and biosensors based on organic transistors. This project will study the role of structure and morphology in these blend materials as characterised by advanced synchrotron based techniques. This project is suitable for students with backgrounds in Physics, Chemistry and Engineering.",
+    "supervisor": "Paul Dastoor",
+    "email": "paul.dastoor@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/paul-dastoor",
+    "page": 8,
+    "tags": [
+      "Solar physics & space weather",
+      "Cancer research & disease diagnostics",
+      "Materials science & surface imaging",
+      "Biophysics & molecular biology",
+      "Renewable energy & solar cells",
+      "Electronics & sensors"
+    ],
+    "methods": [
+      "Laboratory experiments"
+    ],
+    "keywords": [],
+    "software": []
+  },
+  {
+    "id": 24,
+    "title": "Ultra-fast Laser Spectroscopy of Organic Electronic Materials",
+    "description": "The charge generation and charge conduction mechanisms involved in organic electronic devices occur on extremely short timescales and as such are not well understood. This project will aim to use a state-of-the-art femtosecond laser spectroscopy system to probe these mechanisms using pump-probe spectroscopy. This project is suitable for students with backgrounds in Physics, Chemistry and Engineering",
+    "supervisor": "Paul Dastoor",
+    "email": "paul.dastoor@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/paul-dastoor",
+    "page": 8,
+    "tags": [
+      "Lasers & optical spectroscopy",
+      "Materials science & surface imaging",
+      "Electronics & sensors"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "spectroscopy",
+      "laser"
+    ],
+    "software": []
+  },
+  {
+    "id": 25,
+    "title": "Rad on Rails - Investigating the need for mobile radiotherapy in rural areas",
+    "description": "For many rural Australians, the long travel requirements to metropolitan cancer treatment centres means that some people are unable to (or choose not to) receive radiotherapy treatment, resulting in decreased survival with increased remoteness. One potential solution is to deploy mobile radiotherapy units to rural areas transported by either truck or train. Doing so would be the first of its kind in Australia, and therefore requires substantial planning before the construction of the unit can commence. The proposed project would involve the student assessing the needs and preferences of rural patients, developing schedules, identifying suitable locations, and aligning the project with existing services, like mobile chemotherapy clinics.",
+    "supervisor": "Joerg Lehmann",
+    "email": "joerg.lehmann@health.nsw.gov.au",
+    "profile": "https://www.newcastle.edu.au/profile/joerg-lehmann",
+    "page": 11,
+    "tags": [
+      "Medical imaging & radiotherapy",
+      "Cancer research & disease diagnostics"
+    ],
+    "methods": [],
+    "keywords": [
+      "radiotherapy"
+    ],
+    "software": []
+  },
+  {
+    "id": 26,
+    "title": "Investigating clinical practices regarding the SEAFARER spine PSQA audit",
+    "description": "This project aims to improve the safety of radiotherapy cancer treatment in Australia and internationally by building on the SEAFARER remote patient-specific quality assurance (PSQA) audits. The SEAFARER project investigates the sensitivity and specificity of dosimetry measurements performed in radiotherapy clinics. It gives physicists at those clinics an opportunity to check their methods and to compare their results to those of others around the world. SEAFARER uses a cloud-based platform allowing participants to obtain the needed information, submit their data and receive feedback, including comparisons to others, in real time. The student would design and conduct follow-up surveys/interviews with centres who completed a recent SEAFARER audit to answer the questions: what aspects of clinical practices are influential in PSQA performance and what impact the audit has had on current radiotherapy practices. This provides opportunity for a student to communicate and build connections with many radiotherapy centres across Australia and gain insight into current clinical PSQA practices which may be ideal for a student considering pursuing TEAP in the future.",
+    "supervisor": "Joerg Lehmann",
+    "email": "joerg.lehmann@health.nsw.gov.au",
+    "profile": "https://www.newcastle.edu.au/profile/joerg-lehmann",
+    "page": 11,
+    "tags": [
+      "Medical imaging & radiotherapy",
+      "Cancer research & disease diagnostics"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "radiotherapy"
+    ],
+    "software": []
+  },
+  {
+    "id": 27,
+    "title": "Automate collection of radiotherapy beam model parameters",
+    "description": "Radiotherapy treatment quality relies on accurate modelling of the radiation dose delivered by the treatment machines. Our group has developed a platform to collect and compare data on these ‘beam models’ which is currently used by 138 cancer treatment centres across 30 countries. However, the current implementation relies on manual user input which can be prone to error and requires some effort. In this project, the student would work to develop an automated method for beam model data extraction from database files, screen captures and/or other file types.",
+    "supervisor": "Joerg Lehmann",
+    "email": "joerg.lehmann@health.nsw.gov.au",
+    "profile": "https://www.newcastle.edu.au/profile/joerg-lehmann",
+    "page": 11,
+    "tags": [
+      "Medical imaging & radiotherapy",
+      "Cancer research & disease diagnostics",
+      "Programming & computational modelling"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "radiotherapy"
+    ],
+    "software": []
+  },
+  {
+    "id": 28,
+    "title": "Reference dosimetry for kV x-ray systems used for cell and small animal irradiations",
+    "description": "Dosimetry for cell and small animal irradiations for radiation oncology research is complex and difficult with currently high uncertainties. This project will investigate the accuracy of existing models and also perform Monte Carlo simulations and measurements.",
+    "supervisor": "Joerg Lehmann",
+    "email": "joerg.lehmann@health.nsw.gov.au",
+    "profile": "https://www.newcastle.edu.au/profile/joerg-lehmann",
+    "page": 11,
+    "tags": [
+      "Medical imaging & radiotherapy",
+      "Biophysics & molecular biology",
+      "Programming & computational modelling"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "Monte Carlo"
+    ],
+    "software": []
+  },
+  {
+    "id": 29,
+    "title": "CIMBA-B: APT-CEST Imaging for Metabolic Assessment in Brain Tumours",
+    "description": "Treatment response assessment in brain tumours has always been challenging and is increasingly being seen as important due to advances in personalised medicine. It has been evident for some time that there is a discordant between functional and morphological findings of both imaging and histopathology. Multi-parametric MRI using a combination of different MRI sequences, is used as a surrogate for treatment response with evidence indicating a benefit in some tumours, including brain tumours. However, direct measurement of tumour metabolism has been challenging due to the need for invasive procedures to access tumour tissues. Non-invasive metabolic imaging with MRI therefore, is another attractive option. Amide Proton Transfer Chemical Exchange saturation transfer (APT-CEST) MRI is an emerging imaging technique to obtain functional information about the tumour microenvironment and is a potential biomarker for response assessment needing further evaluation.",
+    "supervisor": "Jonathan Goodwin",
+    "email": "jonathan.goodwin@health.nsw.gov.au",
+    "profile": "https://www.newcastle.edu.au/profile/jonathan-goodwin",
+    "page": 13,
+    "tags": [
+      "Medical imaging & radiotherapy",
+      "Cancer research & disease diagnostics",
+      "Materials science & surface imaging",
+      "Biophysics & molecular biology"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "MRI"
+    ],
+    "software": []
+  },
+  {
+    "id": 30,
+    "title": "Deep learning enabled gold fiducial detection for MRI only prostate treatment planning",
+    "description": "Gold seed fiducial markers are routinely implanted in the prostate to assist with image guidance during radiotherapy. On CT and kV imaging, these markers are clearly visualised, allowing accurate localisation during simulation and treatment delivery. However, in MRI-only treatment planning, visualisation is more challenging due to the hypointense appearance of both gold seeds and prostatic calcifications resulting from their negative magnetic susceptibility. This creates potential ambiguity for fiducial segmentation in patients with intraprostatic calcifications, which can compromise MRI-only workflows. To address this issue and improve the simulation-treatment pipeline for MRI-only prostate radiotherapy, a deep-learning model trained to detect gold seeds on Tl-weighted GRE images was implemented as a software container on the MRI system using OpenRecon to provide inline segmented images that can be exported directly to the treatment-planning system. This project continues to look at ways of improving the technique for clinical implementation.",
+    "supervisor": "Jonathan Goodwin",
+    "email": "jonathan.goodwin@health.nsw.gov.au",
+    "profile": "https://www.newcastle.edu.au/profile/jonathan-goodwin",
+    "page": 13,
+    "tags": [
+      "Medical imaging & radiotherapy",
+      "Artificial intelligence & machine learning",
+      "Programming & computational modelling"
+    ],
+    "methods": [
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "deep learning",
+      "MRI",
+      "radiotherapy",
+      "simulation"
+    ],
+    "software": []
+  },
+  {
+    "id": 31,
+    "title": "Functional avoidance in liver radiation therapy planning",
+    "description": "Radiation induced toxicity in liver cancer patients has been linked to reduced quality of life and poor prognosis. Incorporating regions of relative higher liver function as avoidance structures during radiation treatment planning may lead to improved patient outcomes. In this study we explore novel MRI based methods for generating functional liver maps for incorporating into radiation treatment planning.",
+    "supervisor": "Jonathan Goodwin",
+    "email": "jonathan.goodwin@health.nsw.gov.au",
+    "profile": "https://www.newcastle.edu.au/profile/jonathan-goodwin",
+    "page": 13,
+    "tags": [
+      "Medical imaging & radiotherapy",
+      "Cancer research & disease diagnostics"
+    ],
+    "methods": [],
+    "keywords": [
+      "MRI"
+    ],
+    "software": []
+  },
+  {
+    "id": 32,
+    "title": "Synthetic CT for abdomen and lung",
+    "description": "While MRI offers superior soft tissue contrast for contouring tumour targets and defining organs at risk, CT is typically required for dose calculation. However, co-registration of CT and MRI images during radiation treatment can lead to anatomical mismatch for anatomies such as liver and lung. In this study we are working with Siemens Healthineers, CSIRO and Liverpool Hospital to develop AI generated synthetic CT images, which would enable an MRI only workflow for abdomen and lung patients.",
+    "supervisor": "Jonathan Goodwin",
+    "email": "jonathan.goodwin@health.nsw.gov.au",
+    "profile": "https://www.newcastle.edu.au/profile/jonathan-goodwin",
+    "page": 13,
+    "tags": [
+      "Medical imaging & radiotherapy",
+      "Cancer research & disease diagnostics",
+      "Biophysics & molecular biology",
+      "Artificial intelligence & machine learning"
+    ],
+    "methods": [
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "MRI"
+    ],
+    "software": []
+  },
+  {
+    "id": 33,
+    "title": "Four-dimensional dose reconstruction in a virtual motion phantom",
+    "description": "Respiratory tumour motion can significantly impact the delivered radiation dose during radiotherapy and result in poor treatment outcomes for patients. We have developed a novel method to verify the dose received by tumours undergoing respiratory motion. This method relies on Megavoltage images acquired using an electronic portal imaging device (EPID). In-house software is employed to reconstruct the delivered dose in a “virtual” motion phantom using the EPID images. The resultant 4D dose can then be compared to the intended dose to verify the accuracy of the dose delivery with motion. This project will focus on (1) making improvements on the existing methodology to incorporate more complex tumour motion and (2) retrospectively analyse of past Liver and Lung cancer treatments using the method.",
+    "supervisor": "Ben Zwan",
+    "email": "benjamin.zwan@health.nsw.gov.au",
+    "profile": "https://www.newcastle.edu.au/profile/ben-zwan",
+    "page": 14,
+    "tags": [
+      "Medical imaging & radiotherapy",
+      "Cancer research & disease diagnostics",
+      "Electronics & sensors"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "radiotherapy"
+    ],
+    "software": []
+  },
+  {
+    "id": 34,
+    "title": "Treatment Verification for Ultra-Hypofractionated Breast Radiotherapy",
+    "description": "Standard practice in breast cancer radiotherapy is rapidly evolving. Previously radiation dose was administered in smaller amounts spread over 15 to 25 sessions – referred to as fractions. This “fractionation” approach reduces the negative effects of radiation on healthy tissue and results in a safer treatment. Recently, practice has changed to treat breast cancer patients with higher dose per session and in only five fractions, referred to as ultra-hypofractionation. While there are key advantages to this faster treatment regime, there may be detrimental effects if the radiation is not accurately targeting the breast tissue and avoiding key health-tissue – for example, the heart. As part of an ethically approved study, we are collecting X-ray images during five-fraction breast cancer radiotherapy treatments. This project will utilise previously developed research software to automatically extract anatomical features from the X-ray images, to measure the accuracy of the deliveries and ensure patient safety.",
+    "supervisor": "Ben Zwan",
+    "email": "benjamin.zwan@health.nsw.gov.au",
+    "profile": "https://www.newcastle.edu.au/profile/ben-zwan",
+    "page": 14,
+    "tags": [
+      "Medical imaging & radiotherapy",
+      "Cancer research & disease diagnostics",
+      "Biophysics & molecular biology"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "radiotherapy"
+    ],
+    "software": []
+  },
+  {
+    "id": 35,
+    "title": "Real-time Error Detection using Machine Learning",
+    "description": "We have previously developed software to detect treatment delivery errors for routine linear accelerator quality assurance. This system, QUAVER, utilises electronic portal imaging device (EPID) images acquired in real-time during complex radiotherapy deliveries to assess the accuracy of the beam collimation system and dose output. QUAVER has been applied offline (without the presence of a patient) at Central Coast Cancer Centre, Gosford and Calvary Mater Newcastle. Further work is required to develop this system to be applied in real-time during patient treatments to allow errors to be detected before they can cause potential harm to patients. This project will leverage existing image analysis techniques combined with novel machine learning methods to perform these checks in real-time.",
+    "supervisor": "Ben Zwan",
+    "email": "benjamin.zwan@health.nsw.gov.au",
+    "profile": "https://www.newcastle.edu.au/profile/ben-zwan",
+    "page": 14,
+    "tags": [
+      "Medical imaging & radiotherapy",
+      "Cancer research & disease diagnostics",
+      "Artificial intelligence & machine learning",
+      "Electronics & sensors"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "machine learning",
+      "radiotherapy"
+    ],
+    "software": []
+  },
+  {
+    "id": 36,
+    "title": "Evaluation of a New Radiotherapy Technique: RapidArc Dynamic",
+    "description": "In collaboration with industry partner, Varian Medical Systems, we will be evaluating the performance of a new commercial radiotherapy delivery technique, RapidArc Dynamic. This new technique is the most complex commercially available technique worldwide on standard linear accelerators. It allows rotating beam collimation and enables complex beam fluences to be delivery both through rotating gantry angles and from fixed angles in a single delivery. This project will focus on evaluating the clinical benefits of this novel technique including (a) quantifying radiation dose benefits within the patient (b) assessing if treatment time is increased/decreased and (c) verification that dose is delivered accurately to the patient.",
+    "supervisor": "Ben Zwan",
+    "email": "benjamin.zwan@health.nsw.gov.au",
+    "profile": "https://www.newcastle.edu.au/profile/ben-zwan",
+    "page": 14,
+    "tags": [
+      "Medical imaging & radiotherapy"
+    ],
+    "methods": [
+      "Laboratory experiments"
+    ],
+    "keywords": [
+      "radiotherapy"
+    ],
+    "software": []
+  },
+  {
+    "id": 37,
+    "title": "Can We Detect Disease from a Single Breath?",
+    "description": "Extracellular Vesicles and Nanoparticle-Based Biosensors Explore how extracellular vesicles (EVs) released by cells can provide molecular clues about diseases such as lung cancer and respiratory infections. Students will investigate the use of DNA aptamers, gold nanoparticles and quantum dots to develop sensitive biosensors capable of detecting disease-associated biomarkers, contributing to the development of non-invasive breath diagnostics.",
+    "supervisor": "Renee Goreham",
+    "email": "renee.goreham@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/renee-goreham",
+    "page": 15,
+    "tags": [
+      "Quantum physics & quantum technologies",
+      "Cancer research & disease diagnostics",
+      "Nanotechnology & nanoparticles",
+      "Biophysics & molecular biology",
+      "Electronics & sensors"
+    ],
+    "methods": [],
+    "keywords": [
+      "nanoparticle"
+    ],
+    "software": []
+  },
+  {
+    "id": 38,
+    "title": "Can We Predict How DNA Recognises Its Target?",
+    "description": "Molecular Dynamics and Computational Biophysics Investigate how DNA aptamers fold, move and recognise specific proteins using molecular dynamics simulations. Students will analyse molecular structures, flexibility and binding interactions to understand what makes some aptamers more effective than others. This project contributes to the predictive design of next-generation biosensors.",
+    "supervisor": "Renee Goreham",
+    "email": "renee.goreham@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/renee-goreham",
+    "page": 15,
+    "tags": [
+      "Cancer research & disease diagnostics",
+      "Nanotechnology & nanoparticles",
+      "Biophysics & molecular biology",
+      "Programming & computational modelling",
+      "Electronics & sensors"
+    ],
+    "methods": [
+      "Programming & simulation",
+      "Data analysis & imaging",
+      "Python"
+    ],
+    "keywords": [
+      "molecular dynamics"
+    ],
+    "software": []
+  },
+  {
+    "id": 39,
+    "title": "Seeing Molecules with Neutrons",
+    "description": "Neutron Scattering and Nanoscale Molecular Interactions Discover how neutron scattering can reveal the structure and organisation of molecules at the nanoscale. Students will analyse experimental neutron reflectometry and small-angle neutron scattering data to investigate how DNA aptamers interact with proteins, nanoparticles and surfaces. The findings will help explain how molecular organisation influences biosensor performance.",
+    "supervisor": "Renee Goreham",
+    "email": "renee.goreham@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/renee-goreham",
+    "page": 15,
+    "tags": [
+      "Cancer research & disease diagnostics",
+      "Nanotechnology & nanoparticles",
+      "Materials science & surface imaging",
+      "Biophysics & molecular biology",
+      "Electronics & sensors"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Data analysis & imaging",
+      "Python"
+    ],
+    "keywords": [
+      "biosensor"
+    ],
+    "software": [
+      "Python"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Can Lasers Detect the Molecular Fingerprints of Disease?",
+    "description": "Raman Spectroscopy and Extracellular Vesicle Diagnostics: Every molecule has a unique vibrational fingerprint that can be investigated using laser spectroscopy. Students will explore Raman spectroscopy and surface-enhanced Raman spectroscopy (SERS) to identify molecular differences between healthy and biologically altered samples, including EVs associated with viral infection. This research supports the development of rapid, label-free diagnostic technologies.",
+    "supervisor": "Renee Goreham",
+    "email": "renee.goreham@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/renee-goreham",
+    "page": 15,
+    "tags": [
+      "Lasers & optical spectroscopy",
+      "Cancer research & disease diagnostics",
+      "Materials science & surface imaging",
+      "Biophysics & molecular biology"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Data analysis & imaging",
+      "Python"
+    ],
+    "keywords": [
+      "Raman",
+      "SERS",
+      "spectroscopy",
+      "extracellular vesicle",
+      "laser"
+    ],
+    "software": [
+      "Python"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Predicting Molecular Fingerprints Using Quantum Chemistry",
+    "description": "Density Functional Theory and Computational Spectroscopy: Can we predict the spectrum of a molecule before measuring it? Students will use quantum chemical calculations to model the vibrations of biologically important molecules, including proteins, lipids and nucleic acid components. By comparing predicted Raman spectra with experimental measurements, students will help identify the molecular origins of complex biological signals.",
+    "supervisor": "Renee Goreham",
+    "email": "renee.goreham@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/renee-goreham",
+    "page": 15,
+    "tags": [
+      "Quantum physics & quantum technologies",
+      "Lasers & optical spectroscopy",
+      "Biophysics & molecular biology",
+      "Programming & computational modelling",
+      "Mathematics & theoretical physics"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging",
+      "Python"
+    ],
+    "keywords": [
+      "Raman",
+      "spectroscopy",
+      "density functional theory"
+    ],
+    "software": [
+      "Python"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Building Nanoparticles That Light Up and Detect",
+    "description": "Nanoparticle Synthesis, Quantum Dots and Surface Chemistry: Investigate how the size, composition and surface chemistry of nanoparticles influence their optical and sensing properties. Students will synthesise and characterise gold nanoparticles and cadmium-free quantum dots, exploring their fluorescence, stability and interactions with biomolecules. The project supports the development of new materials for biological sensing and imaging.",
+    "supervisor": "Renee Goreham",
+    "email": "renee.goreham@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/renee-goreham",
+    "page": 15,
+    "tags": [
+      "Quantum physics & quantum technologies",
+      "Lasers & optical spectroscopy",
+      "Nanotechnology & nanoparticles",
+      "Materials science & surface imaging",
+      "Biophysics & molecular biology"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Data analysis & imaging",
+      "Python"
+    ],
+    "keywords": [
+      "nanoparticle",
+      "optical"
+    ],
+    "software": [
+      "Python"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Can Artificial Intelligence Recognise Disease?",
+    "description": "Machine Learning and Biological Spectroscopy Explore whether machine learning can identify subtle molecular differences between biological samples. Students will analyse Raman and SERS datasets using computational techniques such as principal component analysis, clustering and classification. The project aims to develop reliable methods for recognising biological changes from complex spectral fingerprints.",
+    "supervisor": "Renee Goreham",
+    "email": "renee.goreham@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/renee-goreham",
+    "page": 15,
+    "tags": [
+      "Lasers & optical spectroscopy",
+      "Cancer research & disease diagnostics",
+      "Biophysics & molecular biology",
+      "Artificial intelligence & machine learning",
+      "Programming & computational modelling"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging",
+      "Python"
+    ],
+    "keywords": [
+      "machine learning",
+      "Raman",
+      "SERS",
+      "spectroscopy"
+    ],
+    "software": [
+      "Python"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Building Artificial Tissue for Medical Imaging",
+    "description": "Optical Phantoms and Biomedical Imaging: How can medical imaging systems be tested without using human tissue? Students will design and fabricate artificial tissue-like materials that reproduce the optical properties of biological tissues. By investigating light absorption, scattering and transmission, students will develop reproducible reference materials for testing and calibrating optical imaging technologies.",
+    "supervisor": "Renee Goreham",
+    "email": "renee.goreham@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/renee-goreham",
+    "page": 15,
+    "tags": [
+      "Lasers & optical spectroscopy",
+      "Medical imaging & radiotherapy",
+      "Materials science & surface imaging",
+      "Biophysics & molecular biology"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Data analysis & imaging",
+      "Python"
+    ],
+    "keywords": [
+      "optical"
+    ],
+    "software": [
+      "Python"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "From DNA to Device: Designing Biosensors Before Building Them",
+    "description": "Predictive Molecular Recognition and Nanobiointerfaces: What if we could predict whether a biosensor will work before manufacturing it? Students will combine molecular simulations, experimental scattering data and biosensor measurements to investigate how DNA aptamers behave when attached to nanoparticles and surfaces. This project aims to identify the molecular properties that govern target recognition, helping develop more efficient and reliable biosensors.",
+    "supervisor": "Renee Goreham",
+    "email": "renee.goreham@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/renee-goreham",
+    "page": 15,
+    "tags": [
+      "Cancer research & disease diagnostics",
+      "Nanotechnology & nanoparticles",
+      "Materials science & surface imaging",
+      "Biophysics & molecular biology",
+      "Programming & computational modelling",
+      "Electronics & sensors"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging",
+      "Python"
+    ],
+    "keywords": [
+      "biosensor"
+    ],
+    "software": [
+      "Python"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Modelling Solar Magnetic fields with Physics-Informed Neural Nets",
+    "description": "The solar corona is the hot, extended outer atmosphere of the Sun, whose structure and dynamics are governed by the coronal magnetic field. Explosive reconfigurations of the coronal field gives rise to solar activity such as solar flares and coronal mass ejections. However, direct observation of the coronal magnetic field is challenging. Instead, it is typically inferred—or extrapolated— from spectro-polarimetric observations taken in the denser, cooler solar photosphere. This extrapolation process involves solving three-dimensional nonlinear boundary-value problem, which traditional computational methods often struggle to handle efficiently and accurately. Physics-Informed Neural Networks (PINNs) are a recently developed approach to solving such challenging problems in computational physics. PINNs leverage neural networks—a form of machine learning—to find solutions to systems of differential equations. This method offers several advantages: it is more robust to noisy data than conventional numerical techniques and also allows for flexible implementation, making it easier to test different boundary conditions and physical models. This project focuses on developing and experimenting with PINNs to perform Nonlinear Force-Free Field (NLFFF) extrapolations of the solar coronal magnetic field. The work will involve machine learning, Python, physics, and numerical and computational methods.",
+    "supervisor": "Stuart Gilchrist",
+    "email": "stuart.gilchrist@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/stuart-gilchrist",
+    "page": 17,
+    "tags": [
+      "Solar physics & space weather",
+      "Artificial intelligence & machine learning",
+      "Programming & computational modelling",
+      "Mathematics & theoretical physics"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging",
+      "Python"
+    ],
+    "keywords": [
+      "coronal",
+      "machine learning",
+      "Python"
+    ],
+    "software": [
+      "Python"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Validation of solar coronal magnetic field models",
+    "description": "Explosive reconfigurations of the solar coronal magnetic field give rise to solar activity such as flares and coronal mass ejections, which directly impact Earth. Understanding these events, with the ultimate goal of predicting them, is a long-term objective of heliophysics. Unfortunately, studying these events is challenging because the solar coronal magnetic field is poorly observed, I.e. it is difficult to constrain via remote sensing methods. Quantitative information on the strength, direction, and structure of the field is particularly difficult to infer, and this limitation constrains the study of coronal physics. In the absence of direct observations, it is necessary to rely on data-driven modelling, which combines physical models with observations of the magnetic field at the photosphere. These coronal field “extrapolations” have become a fundamental tool for investigating the corona. However, constructing the three-dimensional field via extrapolation is non-trivial, and the accuracy of these methods is not well understood because the basic ground truth—the coronal magnetic field—is unavailable for comparison. Can we really trust the magnetic fields produced by extrapolation models? This is the question that model validation seeks to answer. In this project, we will use state-of-the-art observations of the Sun in X-ray and Extreme Ultraviolet (EUV), along with optical spectro-polarimetric data, to explore what we can—and cannot—learn about the corona through extrapolations. The project offers scope for theory, modelling, observations, and statistical analysis.",
+    "supervisor": "Stuart Gilchrist",
+    "email": "stuart.gilchrist@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/stuart-gilchrist",
+    "page": 17,
+    "tags": [
+      "Solar physics & space weather",
+      "Lasers & optical spectroscopy",
+      "Programming & computational modelling",
+      "Mathematics & theoretical physics"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "coronal",
+      "optical",
+      "statistical analysis"
+    ],
+    "software": []
+  },
+  {
+    "id": 48,
+    "title": "Atmospheric characterisation of a hot Jupiter using the James Webb Space Telescope (JWST)",
+    "description": "WASP-121 b is a gas giant exoplanet orbiting extremely close to its host star with an orbital period of approximately 30 hours. Temperatures in the upper atmosphere of the planet vary dramatically from ~3000 kelvin on the dayside down to ~1000 Kelvin on the nightside. Using the NIRSpec instrument onboard JWST, we’ve observed a spectroscopic phase-curve for WASP-121 b covering the ~3-5 micron wavelength range. Various research projects related to this dataset are possible, including: Measuring how radiation is transmitted through the atmosphere to decipher the contrasting properties of the dayside and nightside hemispheres. Studying the morphology of the primary transit signal to search for evidence of differing atmospheric conditions at the morning and evening terminators of the planet. Detailed comparison of the emission spectra obtained at the start and end of the observation to search for evidence of variability in the atmospheric properties over ~10 hour timescales (‘exo-meteorology’).",
+    "supervisor": "Tom Evans",
+    "email": "tom.evans-soma@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/tom-evans-soma",
+    "page": 18,
+    "tags": [
+      "Astronomy & exoplanets",
+      "Lasers & optical spectroscopy",
+      "Materials science & surface imaging"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Data analysis & imaging",
+      "Python"
+    ],
+    "keywords": [
+      "exoplanet",
+      "telescope"
+    ],
+    "software": []
+  },
+  {
+    "id": 49,
+    "title": "Atmospheric characterisation of various exoplanets using the Hubble Space Telescope (HST)",
+    "description": "Until JWST launched in late 2021, HST had been the premier observatory for studying exoplanet atmospheres. Projects are available to analyse and interpret atmospheric spectra obtained from unpublished HST observations for a number of exoplanets: HD 209458 b is the original transiting exoplanet (an archetype of the hot Jupiter class) and remains one of the most favourable observational targets. Data are available for both the dayside emission spectrum and the atmospheric transmission spectrum. HAT-P-18 b is a ‘warm’ (<1000 kelvin) Saturn-sized exoplanet orbiting an active host star. Atmospheric transmission data are available spanning the optical-to-near-infrared wavelength range. In particular, the optical data complement infrared data from JWST that have recently been published. TOI-270 c and d are two ‘temperate’ (<500 kelvin) sub-Neptune exoplanets orbiting a common red dwarf star, discovered by the Transiting Exoplanet Survey Satellite (TESS). Atmospheric transmission data are available for both planets at near-infrared wavelengths.",
+    "supervisor": "Tom Evans",
+    "email": "tom.evans-soma@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/tom-evans-soma",
+    "page": 18,
+    "tags": [
+      "Astronomy & exoplanets",
+      "Lasers & optical spectroscopy"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Data analysis & imaging",
+      "Python"
+    ],
+    "keywords": [
+      "exoplanet",
+      "optical",
+      "telescope"
+    ],
+    "software": []
+  },
+  {
+    "id": 50,
+    "title": "Modelling exoplanet atmospheres in the JWST era",
+    "description": "The quality of the spectra we are now measuring for exoplanets with JWST far surpass those that had represented the state-of-the-art until just two years ago. This project would involve modelling the transmission of radiation through exoplanet atmospheres and comparing the resulting spectra to those that have been recently acquired with JWST and published in the peer-reviewed literature. In doing so, the aim is to learn the chemical and thermal properties of the planetary atmosphere. This in turn can help us to refine our understanding of how radiative transfer, chemistry, and dynamics couple together in atmospheres that are unlike any we encounter in the solar system.",
+    "supervisor": "Tom Evans",
+    "email": "tom.evans-soma@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/tom-evans-soma",
+    "page": 18,
+    "tags": [
+      "Astronomy & exoplanets",
+      "Solar physics & space weather",
+      "Programming & computational modelling"
+    ],
+    "methods": [
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "radiative transfer",
+      "exoplanet"
+    ],
+    "software": []
+  },
+  {
+    "id": 51,
+    "title": "Exploring Survey Outcomes for the Habitable Worlds Observatory",
+    "description": "The Habitable Worlds Observatory (HWO) is a planned flagship NASA mission designed to directly image and characterise Earth-like planets around nearby stars, searching for signs of habitability and life beyond the solar system. While its design and target list are still being refined, HWO aims to detect reflected light from terrestrial exoplanets and measure their spectra — potentially revealing atmospheres similar to Earth’s. This project will explore possible outcomes of HWO’s future surveys. Using the current catalogue of potential target stars and publicly available frameworks for simulating astronomical survey yields, the project will model how different assumptions about the frequency and properties of Earth-like planets affect the number and types of worlds HWO might detect. Because the true occurrence rate of Earth twins remains highly uncertain, this project allows these parameters to be adjusted — much like tuning the terms in a Drake Equation — to see how survey expectations change. The goal is to understand how sensitive HWO’s scientific return will be to key unknowns in exoplanet demographics and to identify what kinds of discoveries would be most likely under different scenarios.",
+    "supervisor": "Tom Evans",
+    "email": "tom.evans-soma@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/tom-evans-soma",
+    "page": 18,
+    "tags": [
+      "Astronomy & exoplanets",
+      "Solar physics & space weather",
+      "Mathematics & theoretical physics"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "exoplanet"
+    ],
+    "software": []
+  },
+  {
+    "id": 52,
+    "title": "Organic Transistor",
+    "description": "A transistor made from an organic semiconducting material is called organic transistor. Organic transistors are conventionally fabricated in nitrogen glovebox to eliminate any absorption of oxygen and water molecules. My goal is to develop air compatible organic transistors that can be manufactured and tested in air.",
+    "supervisor": "Xiaojing Zhou",
+    "email": "xiaojing.zhou@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/xiaojing-zhou",
+    "page": 20,
+    "tags": [
+      "Materials science & surface imaging",
+      "Electronics & sensors"
+    ],
+    "methods": [
+      "Laboratory experiments"
+    ],
+    "keywords": [],
+    "software": []
+  },
+  {
+    "id": 53,
+    "title": "Graphene Electrode",
+    "description": "Graphene is an emerging nanomaterial with versatile applications. This project is to investigate the growth mechanisms experimentally and theoretically of graphene from different carbon sources and explore the potentials of graphene as a transparent and conductive electrode for organic photovoltaics or photo-catalytic reaction cells. This project suits students from chemistry, physics or chemical engineering disciplines.",
+    "supervisor": "Xiaojing Zhou",
+    "email": "xiaojing.zhou@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/xiaojing-zhou",
+    "page": 20,
+    "tags": [
+      "Nanotechnology & nanoparticles",
+      "Materials science & surface imaging",
+      "Biophysics & molecular biology",
+      "Renewable energy & solar cells",
+      "Electronics & sensors",
+      "Mathematics & theoretical physics"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation"
+    ],
+    "keywords": [],
+    "software": []
+  },
+  {
+    "id": 54,
+    "title": "Electrodeposition of Functional Metal Nanoparticles on Graphene Electrode",
+    "description": "Electrodeposition is an easy and low-cost method to manufactory metal nanoparticles. Different electrode materials play an important role in controlling the formation of those nanoparticles in sizes, shapes and chemical composition. This project is to investigate copper nanoparticles formation using different electrodes, from gold, silicon to carbon-based graphene electrodes. The growth mechanisms will be examined to elucidate the effects of surface morphology, surface energy of the electrodes on the nanoparticle formation.",
+    "supervisor": "Xiaojing Zhou",
+    "email": "xiaojing.zhou@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/xiaojing-zhou",
+    "page": 20,
+    "tags": [
+      "Nanotechnology & nanoparticles",
+      "Materials science & surface imaging",
+      "Electronics & sensors"
+    ],
+    "methods": [
+      "Laboratory experiments"
+    ],
+    "keywords": [
+      "nanoparticle"
+    ],
+    "software": []
+  },
+  {
+    "id": 55,
+    "title": "Non-enzymatic Biosensors",
+    "description": "Conventional biosensors are based on enzymes as the sensing elements to provide selectivity. Enzymes are bio-catalysis. However, enzymes can only survive in the restricted biological suitable environment and most commercially available enzymes are very expensive, which limits biosensors’ accessibility due to their cost. This project is to explore user friendly and cost efficiency disposable biosensors without involving enzymes.",
+    "supervisor": "Xiaojing Zhou",
+    "email": "xiaojing.zhou@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/xiaojing-zhou",
+    "page": 20,
+    "tags": [
+      "Cancer research & disease diagnostics",
+      "Biophysics & molecular biology",
+      "Electronics & sensors"
+    ],
+    "methods": [],
+    "keywords": [],
+    "software": []
+  },
+  {
+    "id": 56,
+    "title": "Synthesis and characterisation of copper-nickel-manganese alloys",
+    "description": "Cu, Ni and Mn can, in theory, be melted and cooled into a solid-solution over a wide range of compositions, a unique property among ternary metal systems. Such an alloy is useful in for structural applications in corrosive environments, situations requiring very high mechanical damping, and in the preparation of nanoporous metals. In practice, improper cooling results in segregation of elements into dendritic microstructures, which affect subsequent processing steps and applications. This project will optimise the induction-furnace-based synthesis of Cu-Ni-Mn alloys, in collaboration with the School of Engineering. The researcher will weigh and mix reagents, explore furnace operating parameters and environments to optimise melting and mixing, and characterise the resultant alloys using X-ray diffraction and scanning electron microscopy. This project is well-suited to a researcher with an interest or background in materials science, engineering, chemistry, or physics.",
+    "supervisor": "Levi Tegg",
+    "email": "levi.tegg@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/levi-tegg",
+    "page": 21,
+    "tags": [
+      "Materials science & surface imaging",
+      "Mathematics & theoretical physics"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation"
+    ],
+    "keywords": [
+      "scanning electron microscopy"
+    ],
+    "software": []
+  },
+  {
+    "id": 57,
+    "title": "Optimised dealloying conditions for robust nanoporous copper",
+    "description": "Nanoporous metals consist of a bi-continuous network of nanoscale ligaments and pores. They can have enormous specific surface area, and metallic electrical and thermal conductivity, giving uses in catalysis, as supercapacitors, and in other energy applications. Nanoporous metals are easily prepared by dealloying, where the more reactive metal from a binary alloy is selectively removed. Nanoporous copper can be prepared by dealloying copper-manganese alloys using dilute mineral acids, but there has been little optimisation of the procedure. In this project, the researcher will explore the effect of the dealloying conditions (time, concentration, etc) on the resulting material composition, nanopore geometry, and mechanical robustness. The experiments will be performed in a wet laboratory fume hood, involve handling acids and bulk samples, and will involve characterisation using X-ray diffraction and scanning electron microscopy. This project is well-suited to a researcher with an interest or background in chemistry, physics, or nanomaterials.",
+    "supervisor": "Levi Tegg",
+    "email": "levi.tegg@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/levi-tegg",
+    "page": 21,
+    "tags": [
+      "Nanotechnology & nanoparticles",
+      "Materials science & surface imaging",
+      "Renewable energy & solar cells"
+    ],
+    "methods": [
+      "Laboratory experiments"
+    ],
+    "keywords": [
+      "scanning electron microscopy"
+    ],
+    "software": []
+  },
+  {
+    "id": 58,
+    "title": "Simulating the optical properties of nanostructured metals",
+    "description": "Nanostructured materials can have optical properties vastly different from the bulk equivalent. For metals, additional optical absorption and scattering can result from surface plasmon resonances, which are exploited in catalysis, chemical sensing, and more. Recent experiments have shown strong surface plasmon excitation in nanoporous copper, despite copper traditionally being unsuitable for plasmons due to unfavourable optical properties. This project will use simulation to understand the microstructure and conditions under which selected metals and alloys can exhibit surface plasmons. The researcher will use existing MATLAB simulation software to calculate the optical responses of various metal nanostructures, with and without oxide layers, and compare that to previously-collected optical properties data. This project is well-suited to a researcher with an interest or background in physics, nanomaterials, and programming.",
+    "supervisor": "Levi Tegg",
+    "email": "levi.tegg@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/levi-tegg",
+    "page": 21,
+    "tags": [
+      "Lasers & optical spectroscopy",
+      "Nanotechnology & nanoparticles",
+      "Materials science & surface imaging",
+      "Programming & computational modelling"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "optical",
+      "simulation",
+      "MATLAB"
+    ],
+    "software": [
+      "MATLAB"
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Full-spectrum analysis of atom probe tomography mass-to-charge-ratio spectra",
+    "description": "Atom probe tomography combines a field ion microscope with time-of-flight mass spectroscopy system to provide 3D, near-atomic-scale microanalysis of solid samples. Specimen chemistry is found by summing ranges around peaks in the mass-to-charge ratio spectrum. This involves arbitrary decisions about peak extent, leading to different measured compositions depending on the protocol used, and disagreement in the community about best-practices. Inspired by analysis of X-ray diffraction patterns, this project will analyse the peaks in atom probe mass-to-charge ratio spectra to develop (a) a useful peak-shape model, and (b) a full-spectrum fit to provide very accurate compositional measurements. The researcher will primarily be writing code (in Python, or a language of their choice) to apply to existing datasets, but there is opportunity to collect new atom probe data at the University of Sydney. This project is well-suited to a researcher with a background in physics, programming, and mathematics.",
+    "supervisor": "Levi Tegg",
+    "email": "levi.tegg@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/levi-tegg",
+    "page": 21,
+    "tags": [
+      "Lasers & optical spectroscopy",
+      "Materials science & surface imaging",
+      "Programming & computational modelling",
+      "Mathematics & theoretical physics"
+    ],
+    "methods": [
+      "Laboratory experiments",
+      "Programming & simulation",
+      "Data analysis & imaging"
+    ],
+    "keywords": [
+      "spectroscopy",
+      "Python"
+    ],
+    "software": [
+      "Python"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Refining mass-loss rates of ATOMIUM stars",
+    "description": "When stars like our Sun reach the end of their lives, they expand and cool, becoming asymptotic giant branch (AGB) stars. During this phase, they go through a process of ejecting their outer layers. The process of mass loss is important because it delivers newly formed elements and dust from the star into the interstellar medium. Mass loss also dictates how long this phase of the star’s life will last. The ATOMIUM project collected high resolution observations of AGB stars using the ALMA telescope in Chile. However, some of the stars in the sample do not have very well-defined mass-loss rates. You will use radiative transfer modelling and spectral line observations to determine the mass-loss rates of these stars. ou will learn how to work with real astronomical data and will learn how to do data analysis and make plots using python.",
+    "supervisor": "Taïssa Danilovich",
+    "email": "taissa.danilovich@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/taissa-danilovich",
+    "page": 23,
+    "tags": [
+      "Astronomy & exoplanets",
+      "Programming & computational modelling"
+    ],
+    "methods": [
+      "Programming & simulation",
+      "Data analysis & imaging",
+      "Python"
+    ],
+    "keywords": [
+      "radiative transfer",
+      "spectral line",
+      "ALMA",
+      "AGB",
+      "mass loss",
+      "radiative transfer modelling",
+      "telescope",
+      "ALMA telescope",
+      "AGB stars",
+      "stellar mass loss",
+      "spectral line observations"
+    ],
+    "software": [
+      "Python"
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Distribution of SiC2 around W Aquilae",
+    "description": "W Aquilae (W Aql) is a nearby asymptotic giant branch (AGB) star. It is currently in a transitionary phase between being oxygen-rich and becoming more carbon-rich. As a result, it is classified as an S-type star, which is an intermediary chemical type. An AGB star’s chemical type affects the types of molecules that form around it and go on to form dust. As an S-type star, W Aql contains more carbon-bearing molecules than a purely oxygen-rich star would. SiC2 is one of these molecules, and is a bit unusual because it is triangular in shape. You will use radiative transfer modelling to estimate the abundance of SiC2 around W Aql. This project will also involve extrapolating existing molecular data to higher energies to enable this modelling. ou will learn how to work with real astronomical data and will learn how to do data analysis and make plots using python.",
+    "supervisor": "Taïssa Danilovich",
+    "email": "taissa.danilovich@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/taissa-danilovich",
+    "page": 23,
+    "tags": [
+      "Astronomy & exoplanets",
+      "Programming & computational modelling"
+    ],
+    "methods": [
+      "Programming & simulation",
+      "Data analysis & imaging",
+      "Python"
+    ],
+    "keywords": [
+      "radiative transfer",
+      "AGB",
+      "radiative transfer modelling"
+    ],
+    "software": [
+      "Python"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Abundances of SO and SO2 around oxygen-rich AGB stars",
+    "description": "When stars like our Sun reach the end of their lives, they expand and cool, becoming asymptotic giant branch (AGB) stars. These stars eject their outer layers to form an expanding circumstellar envelope, rich in molecules and dust. Some molecules can be used as markers of mass-loss rate and whether the AGB star has a hidden binary companion. You will use spectral line observations from the APEX telescope in Chile to model the abundances of SO (and, if time permits, SO2) for a few AGB stars. Hence, you will indirectly determine other properties of the selected stars. You will learn how to work with real astronomical data and will learn how to do data analysis and make plots using python.",
+    "supervisor": "Taïssa Danilovich",
+    "email": "taissa.danilovich@newcastle.edu.au",
+    "profile": "https://www.newcastle.edu.au/profile/taissa-danilovich",
+    "page": 23,
+    "tags": [
+      "Astronomy & exoplanets",
+      "Solar physics & space weather"
+    ],
+    "methods": [
+      "Programming & simulation",
+      "Data analysis & imaging",
+      "Python"
+    ],
+    "keywords": [
+      "spectral line",
+      "AGB",
+      "telescope"
+    ],
+    "software": [
+      "Python"
+    ]
+  }
+]
