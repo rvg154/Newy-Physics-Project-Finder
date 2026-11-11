@@ -1,0 +1,38 @@
+name: Propose academic project update
+on:
+  issues:
+    types: [opened, reopened]
+permissions:
+  contents: write
+  pull-requests: write
+  issues: read
+jobs:
+  prepare-review:
+    if: contains(github.event.issue.labels.*.name, 'project-submission')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Save issue submission
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: printf '%s' "$ISSUE_BODY" > /tmp/project-issue.md
+      - name: Apply proposed change (not published)
+        run: python3 scripts/apply_issue.py --issue-file /tmp/project-issue.md
+      - name: Create review pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_URL: ${{ github.event.issue.html_url }}
+        run: |
+          BRANCH="review/project-issue-${ISSUE_NUMBER}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add index.html projects.json
+          git commit -m "Proposed project update from issue #${ISSUE_NUMBER}"
+          git push origin "$BRANCH"
+          gh pr create --base "${{ github.event.repository.default_branch }}" --head "$BRANCH" \
+            --title "Review project submission #${ISSUE_NUMBER}" \
+            --body "Proposed project change from ${ISSUE_URL}. Verify supervisor identity and details before merging. **Merging publishes the change to GitHub Pages.**"
