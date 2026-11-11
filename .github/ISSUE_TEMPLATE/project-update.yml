@@ -1,0 +1,86 @@
+name: Submit a Physics research project update
+description: Add, edit, or withdraw a project (requires supervisor approval)
+title: "Project update: "
+labels: ["project-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: "Changes are reviewed before publication. Please submit using your university contact details. Do not include confidential information."
+  - type: dropdown
+    id: action
+    attributes:
+      label: Requested change
+      options:
+        - Edit existing project
+        - Add new project
+        - Withdraw existing project
+    validations:
+      required: true
+  - type: input
+    id: project_id
+    attributes:
+      label: Project ID
+      description: "For edits/withdrawals, enter the number shown in the project list. For new projects, enter NEW."
+      placeholder: "e.g. 60 or NEW"
+    validations:
+      required: true
+  - type: input
+    id: supervisor
+    attributes:
+      label: Supervisor name
+      placeholder: "Full name"
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: University email
+      placeholder: "name@newcastle.edu.au"
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Project title
+      description: "Required for new projects; optional for edits. Leave blank to retain existing value."
+  - type: textarea
+    id: description
+    attributes:
+      label: Project description
+      description: "Required for new projects; optional for edits. Leave blank to retain existing value."
+  - type: input
+    id: tags
+    attributes:
+      label: Research interests (comma separated)
+      placeholder: "Astronomy & exoplanets, Programming & computational modelling"
+  - type: input
+    id: methods
+    attributes:
+      label: Methods (comma separated)
+      placeholder: "Programming & simulation, Data analysis & imaging"
+  - type: input
+    id: keywords
+    attributes:
+      label: Keywords (comma separated)
+      placeholder: "stellar evolution, radiative transfer, ALMA"
+  - type: input
+    id: software
+    attributes:
+      label: Software used (comma separated)
+      description: "Only include tools actually used in the project."
+      placeholder: "Python, MATLAB"
+  - type: input
+    id: profile
+    attributes:
+      label: Supervisor profile URL
+      placeholder: "https://www.newcastle.edu.au/profile/..."
+  - type: input
+    id: page
+    attributes:
+      label: Handbook page (optional)
+      description: "Leave blank if the project is not in the printed handbook."
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes for the reviewer
+      description: "For edits, explain what should change. For withdrawal, explain why."
